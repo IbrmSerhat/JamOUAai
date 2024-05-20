@@ -371,6 +371,7 @@
 "Assets/AN Interactive Physical Door Pack/Scripts/AN_PlugScript.cs"
 "Assets/isBoxHere.cs"
 "Assets/levyeCode.cs"
+"Assets/nextLevel.cs"
 "Assets/PBR_Grass_Textures/Scripts/CameraFreeflight.cs"
 "Assets/RaycastCode.cs"
 "Assets/Scripts/AgentController.cs"
