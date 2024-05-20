@@ -12,6 +12,7 @@ public class nextLevel : MonoBehaviour
         if (other.tag == "Player")
         {
             int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+            Debug.Log("current scene index: " + currentSceneIndex);
             int nextSceneIndex = currentSceneIndex + 1;
             SceneManager.LoadScene(nextSceneIndex);
         }
